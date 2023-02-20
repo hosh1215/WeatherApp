@@ -1,1 +1,3 @@
+# Environments
 .env
+# The .env literally only contains WEATHERKEY = "<key>"

@@ -1,0 +1,3 @@
+This was a simple project that gets the weather of the location entered in the prompt.
+
+Since this project required an API key for making requests to openweathermaps, I played around with .env files to keep the sensitive info hiddent. I also gained some better understanding of how .gitignore files work so that I wouldn't upload the .env file up to my public repository.
